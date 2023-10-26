@@ -1,0 +1,114 @@
+main{
+    height: 450px;
+    border: 1.5px solid black;
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 2%;
+    border-radius: 15px;
+    
+}
+.ffr{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#first{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    
+}
+
+#last{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+#hr{
+    width: 15vw;
+    height: 70px;
+    border-radius: 30px;
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    margin-top: -10%;
+}
+#min{
+    width: 15vw;
+    height: 70px;
+    border-radius: 30px;
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    margin-top: -10%;
+}
+#sec{
+    width: 15vw;
+    height: 70px;
+    border-radius: 30px;
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    margin-top: -10%;
+}
+
+#mc{
+    width: 15vw;
+    height: 70px;
+    border-radius: 30px;
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+    margin-top: -10%;
+}
+
+#note{
+    /* background-color: white; */
+    color: blue;
+    height: 15%;
+}
+#pause{
+    height: 40px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+#start{
+    height: 70px;
+    width: 25%;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+}
+#stop{
+    height: 40px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+
+
+
+
+
+
+
+/* #hour{
+    border: 0.5px solid black;
+    width: 10%;
+    text-align: center;
+
+}
+
+#minute{
+    border: 0.5px solid black;
+    width: 10%;
+    text-align: center;
+}
+#second{
+    border: 0.5px solid black;
+    width: 10%;
+    text-align: center;
+    
+} */
