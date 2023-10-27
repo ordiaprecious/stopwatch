@@ -56,8 +56,7 @@ what= function (){
 function press(){
     ok=setInterval(what,15)
     document.getElementById('note').innerHTML=''
-    // document.getElementById('first').innerHTML='you have began'
-    
+
 } 
 
 function press1(){
@@ -79,8 +78,8 @@ function press1(){
         clearInterval(ok)
     }
     
-    // var gg= setTimeout(ddd,5000)
-
-// function ddd(){
-//     document.getElementById('ff').innerHTML='you are here'
+    
+//     function (){
+//         // document.getElementById('ff').innerHTML='you are here'
+       
 // }
